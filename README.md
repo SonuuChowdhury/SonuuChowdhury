@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonu Chowdhury</h1>
 <h3 align="center">A Passionate Full Stack Developer from Kolkata, India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/sonuuchowdhury" target="blank"><img src="https://img.shields.io/twitter/follow/sonuuchowdhury?logo=twitter&style=for-the-badge" alt="sonuuchowdhury" /></a> </p>
 
