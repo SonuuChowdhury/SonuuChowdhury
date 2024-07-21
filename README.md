@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SOnu Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm Sonu Chowdhury</h1>
 <h3 align="center">A Passionate Full Stack Developer from Kolkata, India</h3>
 
 <p align="left"> <a href="https://twitter.com/sonuuchowdhury" target="blank"><img src="https://img.shields.io/twitter/follow/sonuuchowdhury?logo=twitter&style=for-the-badge" alt="sonuuchowdhury" /></a> </p>
