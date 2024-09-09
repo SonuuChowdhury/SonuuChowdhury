@@ -1,11 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sonu Chowdhury</h1>
 
 <p align="center">
-  <!-- Replace with your new banner image link -->
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+Sonu+Chowdhury's+GitHub+Profile" alt="Sonu Chowdhury Banner" />
-</p>
-
-<p align="center">
   <em>A Passionate Full Stack Developer from Kolkata, India 🌏</em>
 </p>
 
