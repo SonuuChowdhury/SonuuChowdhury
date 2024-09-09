@@ -1,100 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sonu Chowdhury</h1>
-<h3 align="center">A Passionate Full Stack Developer from Kolkata, India</h3>
+<h1 align="center">Hi there 👋, I'm Sonu Chowdhury</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+  <img src="https://github.com/your-username/your-repo/assets/your-image.png" alt="Sonu Chowdhury Banner" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonuchowdhury" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/sonuchowdhury" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sonuchowdhury" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
+  <em>A Passionate Full Stack Developer from Kolkata, India 🌏</em>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/sonuu.chowdhury?igsh=c2RnZWZhdHE1ZXR0"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
+  <a href="https://x.com/SonuuChowdhury?t=UY5NknENb2Zz2W8qwGgF5A&s=09"><img src="https://img.shields.io/badge/-X-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/sonu-chowdhury-5378612b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **React**  
-- 💬 Ask me about **MERN, React, Tailwind, Django, AI**  
-- 📫 How to reach me: **[chowdhurysonu047@gmail.com](mailto:chowdhurysonu047@gmail.com)**  
-- 🌍 All of my projects are available at **[Portfolio](https://portfolio-sonuuchowdhury.vercel.app/)**  
-- ⚡ Fun fact: **I'm a very good friend of AI 🤖**  
+### 👨‍💻 About Me:
+- 🌱 I’m currently learning **React** and enhancing my skills in **MERN Stack**.
+- 🚀 All of my projects are available at [My Portfolio](https://portfolio-sonuuchowdhury.vercel.app/).
+- 💬 Ask me about **MERN, React, Tailwind, Django**.
+- 📫 How to reach me: **chowdhurysonu047@gmail.com**.
+
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+</p>
 
 ---
 
-### 🛠️ Technical Skills
+### 📊 GitHub Stats:
+![Sonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonuuChowdhury&show_icons=true&theme=radical)
 
-- **Languages:** JavaScript, Python, C, C++, HTML5, CSS3  
-- **Frameworks and Libraries:** React, Express, Node.js, Django, Tailwind CSS  
-- **Databases:** MongoDB, MySQL  
-- **Tools and Platforms:** Git, Docker, AWS, Vercel, Render  
-- **Others:** REST APIs, JWT, OAuth, Socket.io
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuuChowdhury&layout=compact&theme=radical)
 
-### 🎯 Soft Skills
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SonuuChowdhury&theme=radical&no-frame=true)
 
-- 🚀 Leadership
-- 🎨 Creativity
+### ✨ Soft Skills:
 - 🤝 Team Collaboration
-- 📊 Analytical Thinking
-- 📚 Continuous Learner
+- 💡 Problem-Solving
+- 🗣 Public Speaking
+- 📅 Time Management
+- 📈 Continuous Learning
+
+### 📫 Let's Connect!
+Feel free to connect with me on [Instagram](https://www.instagram.com/sonuu.chowdhury?igsh=c2RnZWZhdHE1ZXR0), [X (Twitter)](https://x.com/SonuuChowdhury?t=UY5NknENb2Zz2W8qwGgF5A&s=09), or [LinkedIn](https://www.linkedin.com/in/sonu-chowdhury-5378612b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)!
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SonuuChowdhury&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SonuuChowdhury&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuuChowdhury&layout=compact&theme=radical" />
-</p>
+### 🚀 Tech Stack:
+- Frontend: **React**, **Tailwind CSS**, **HTML5**, **CSS3**
+- Backend: **Node.js**, **Express.js**, **Django**
+- Databases: **MongoDB**, **MySQL**
+- Version Control: **Git**, **GitHub**
+- DevOps: **AWS**, **Vercel**, **Render**
 
 ---
 
-### 🖼️ Fun GIFs
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200" />
-</p>
+### 🌟 Quote of the Day
+_"Code is like humor. When you have to explain it, it’s bad."_ - Cory House
 
 ---
 
-### 🔗 Connect with me:
+#### ⚡ Fun Fact:
+I'm a very good friend of AI!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sonuchowdhury" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/sonuchowdhury" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/sonuchowdhury" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-### 🏆 Achievements
-
-- 🌟 Total Stars Earned: 6  
-- 🔄 Total Commits (2024): 61  
-- 📜 Total PRs: 0  
-- 🗳️ Total Issues: 0  
-- 🕒 Current Streak: 0 days  
-- 🔥 Longest Streak: 9 days  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SonuuChowdhury&color=blue" alt="SonuuChowdhury" />
-</p>
