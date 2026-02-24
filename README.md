@@ -1,71 +1,122 @@
-<h1 align="center">Hi there 👋, I'm Sonu Chowdhury</h1>
+<h1 align="center">Sonu Chowdhury</h1>
+<h3 align="center">Full-Stack AI Systems Builder • Real-Time • Cloud-Connected • Assistive Tech</h3>
 
 <p align="center">
-  <em>A Passionate Full Stack Developer from Kolkata, India 🌏</em>
+B.Tech in Electrical & Electronics Engineering @ Academy of Technology, Kolkata <br/>
+Open to internships • research opportunities • collaborative AI projects
 </p>
+
+---
+
+## 🚀 Currently Building
+
+### Synchora — AI Powered Assistive Arm Band  
+Cloud-connected, real-time voice interaction system for visually impaired users.
+
+- Architecting the **complete backend infrastructure**
+- Designing an **agentic NLP pipeline**  
+  `Speech → Intent → Task Execution → Response`
+- Enabling **low-latency device ↔ cloud communication**
+- Leading a **5-member development team**
+
+**Tech:** Node.js • Redis • MongoDB • WebSockets • LangChain • Gemini • Google STT
+
+🔗 [Live Project](https://synchora-ai-powerd-smart-arm-band.vercel.app/)  
+🔗 [Core Backend Repo](https://github.com/SonuuChowdhury/Synchora-IDMB)  
+🔗 [Microservices Repo](https://github.com/SonuuChowdhury/Synchora-MS)  
+🔗 [Project Logbook](https://docs.google.com/document/d/18II7gRaO29cJ0GnAKNLhQsrgbbmvOMZdw-WH79EImz4/edit)
+
+---
+
+## 🧠 About Me
+
+- Building **real-time AI systems that interact with the physical world**
+- Focused on **agentic workflows, system architecture, and applied AI**
+- Strong interest in **assistive technology & human-AI interaction**
+- Experience working with **clients to turn ideas into deployable products**
+
+---
+
+## 🏗 Selected Systems
+
+### 🏫 EduConnect — Institute Management Platform  
+Full-stack system replacing manual academic workflows with real-time analytics.
+
+- Multi-role access (admin • teacher • student)
+- AI-powered notice generation
+- Attendance & performance analytics
+- Redis caching for performance
+
+**Stack:** React • Node • MongoDB • Redis • JWT • Gemini
+
+🔗 https://aoteduproject.vercel.app/  
+🔗 https://github.com/SonuuChowdhury/EDU-CONNECT
+
+---
+
+### 🧩 ThinkCharge — Scalable Quiz Event Platform  
+Built and deployed for a **real departmental event**.
+
+- Real-time evaluation & ranking
+- Admin control system
+- Automated grading
+- QR-based attendance
+
+🔗 https://think-charge.vercel.app  
+🔗 https://github.com/SonuuChowdhury/Think-Charge-Quiz-App
+
+---
+
+## ⚙️ Technical Depth
+
+### AI & Agentic Systems
+Python • LangChain • Gemini • Google Speech-to-Text • NLP Pipelines
+
+### Backend & Real-Time Infrastructure
+Node.js • Express • REST APIs • WebSockets • Redis • JWT Auth
+
+### Databases
+MongoDB • PostgreSQL
+
+### Cloud & DevOps
+AWS • Docker • Linux • Bash • Vercel • Render • Git
+
+### Interface Layer
+React • TypeScript • Tailwind
+
+### AI-Native Development
+Cursor • GitHub Copilot • Claude
+
+---
+
+## 🔬 Research & Learning Direction
+
+- Real-time multimodal AI systems  
+- Edge + cloud collaborative intelligence  
+- AI for assistive and inclusive technologies  
+
+---
+
+## 🤝 Open to Collaborate On
+
+- AI systems & agentic workflows  
+- Applied ML projects  
+- Assistive technology  
+- Scalable backend infrastructure  
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <a href="https://www.instagram.com/sonuu.chowdhury?igsh=c2RnZWZhdHE1ZXR0"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
-  <a href="https://x.com/SonuuChowdhury?t=UY5NknENb2Zz2W8qwGgF5A&s=09"><img src="https://img.shields.io/badge/-X-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/sonu-chowdhury-5378612b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuuChowdhury&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuuChowdhury&layout=compact&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 🌱 I’m currently learning **React** and enhancing my skills in **MERN Stack**.
-- 🚀 All of my projects are available at [My Portfolio](https://portfolio-sonuuchowdhury.vercel.app/).
-- 💬 Ask me about **MERN, React, Tailwind, Django**.
-- 📫 How to reach me: **chowdhurysonu047@gmail.com**.
+## 📫 Contact
 
----
-
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-![Sonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonuuChowdhury&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuuChowdhury&layout=compact&theme=radical)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SonuuChowdhury&theme=radical&no-frame=true)
-
-### ✨ Soft Skills:
-- 🤝 Team Collaboration
-- 💡 Problem-Solving
-- 🗣 Public Speaking
-- 📅 Time Management
-- 📈 Continuous Learning
-
-### 📫 Let's Connect!
-Feel free to connect with me on [Instagram](https://www.instagram.com/sonuu.chowdhury?igsh=c2RnZWZhdHE1ZXR0), [X (Twitter)](https://x.com/SonuuChowdhury?t=UY5NknENb2Zz2W8qwGgF5A&s=09), or [LinkedIn](https://www.linkedin.com/in/sonu-chowdhury-5378612b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)!
-
----
-
-### 🚀 Tech Stack:
-- Frontend: **React**, **Tailwind CSS**, **HTML5**, **CSS3**
-- Backend: **Node.js**, **Express.js**, **Django**
-- Databases: **MongoDB**, **MySQL**
-- Version Control: **Git**, **GitHub**
-- DevOps: **AWS**, **Vercel**, **Render**
-
----
-
-### 🌟 Quote of the Day
-_"Code is like humor. When you have to explain it, it’s bad."_ - Cory House
+📧 chowdhurysonu047@gmail.com  
+🌐 https://portfolio-sonuuchowdhury.vercel.app  
+💼 https://www.linkedin.com/in/sonu-chowdhury-5378612b2/
